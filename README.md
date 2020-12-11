@@ -2,4 +2,4 @@
 
 Airline Database system
 
-PL/SQL Oracle
+Oracle 18 Express Edition Centos 7 XFS
