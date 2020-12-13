@@ -1,0 +1,4 @@
+iptables
+
+!!! iptables -A IN_public_allow -p tcp -m tcp --dport 1521 -m conntrack --ctstate NEW,UNTRACKED -j ACCEPT export PATH
+
